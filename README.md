@@ -1,3 +1,7 @@
+# Steps
+
+## Transliterate
+
 1. In the Transliterate Directory 1st git clone below repository:
 
 ```bash
@@ -8,3 +12,7 @@
 (go to the repository to check how to use it)
 
 2. Change the model_path in transliterate.ipynb to any of the models and run that file.
+
+## Model building
+
+1. Run Hindi_Sentiment_analysis.ipynb which uses IndicBert model.
