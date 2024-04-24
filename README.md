@@ -1,3 +1,24 @@
+# Introduction
+
+This project uses different pre-trained models to predict the sentiments of people based on reviews in Hindi.
+
+# Dataset Description
+
+The dataset is a collection of Hindi reviews (2006 training examples) with 4 sentiments:
+
+1. Happy
+2. Sad
+3. Angry
+4. Neutral
+
+# Models used
+
+1. LSTM
+2. BERT
+3. mBERT
+4. DistillBERT
+5. IndicBERT
+
 # Steps
 
 ## Transliterate
